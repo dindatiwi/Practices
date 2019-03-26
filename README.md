@@ -4,4 +4,4 @@
 
 
 ## List project kampus
-- Project Tugas Besar Pertama [first final project](https://github.com/dindatiwi/tubespertama).
+- [Project Tugas Besar Pertama](https://github.com/dindatiwi/tubespertama).
