@@ -11,7 +11,7 @@
 
 
 ## [Learning](https://github.com/dindatiwi/Learning)
--Javascript Fundamentals
+### Javascript Fundamentals
 - [Kelvin Weather](https://github.com/dindatiwi/Learning/tree/kelvin-weather)
 - [Dog years](https://github.com/dindatiwi/Learning/tree/dog-years)
 - [Magic Eight Balls](https://github.com/dindatiwi/Learning/tree/magic-eight-ball)
