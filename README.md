@@ -8,6 +8,10 @@
 - [Tugas Besar Pertama](https://github.com/dindatiwi/tubespertama)
 - [Tugas Besar Praktikum Desain Web](https://github.com/dindatiwi/riddlesite)
 - [Tugas Besar Teori Desain Web](https://dindatiwi.github.io/riddlesite/)
+- [Manga DB](https://github.com/dindatiwi/MangaDB)
+- [Birthday Piano](https://github.com/dindatiwi/birthdayPiano)
+- [Chore Door Bot](https://github.com/dindatiwi/ChoreDoorBot)
+- [Javascript Calculator](https://github.com/dindatiwi/Kalkulator_javascript)
 
 
 ## [Learning](https://github.com/dindatiwi/Learning)
