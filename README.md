@@ -1,4 +1,4 @@
-> ini adalah repo yang menghubungkan ke repo project yang pernah saya buat
+> This is list of repos, that i've been made for training or practicing
 
 # Project
 
