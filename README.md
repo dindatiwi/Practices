@@ -14,7 +14,7 @@
 - [Javascript Calculator](https://github.com/dindatiwi/Kalkulator_javascript)
 
 
-## [Learning](https://github.com/dindatiwi/Learning)
+## [Learning Javascript Fundamentals](https://github.com/dindatiwi/Learning)
 ### Javascript Fundamentals
 - [Kelvin Weather](https://github.com/dindatiwi/Learning/tree/kelvin-weather)
 - [Dog years](https://github.com/dindatiwi/Learning/tree/dog-years)
@@ -25,3 +25,7 @@
 - [Rock Paper Scissor](https://github.com/dindatiwi/Learning/tree/paper-game)
 - [School Instances](https://github.com/dindatiwi/Learning/tree/school-instances)
 - [Team Stats](https://github.com/dindatiwi/Learning/tree/team-stats)
+
+## [Learning Python 3 Fundamentals](https://github.com/dindatiwi/learn_python)
+### Python 3 Fundamentals
+- [Pyshics Class](https://github.com/dindatiwi/learn_python/tree/pyshics_class)
