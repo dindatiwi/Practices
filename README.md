@@ -29,3 +29,4 @@
 ## [Learning Python 3 Fundamentals](https://github.com/dindatiwi/learn_python)
 ### Python 3 Fundamentals
 - [Pyshics Class](https://github.com/dindatiwi/learn_python/tree/pyshics_class)
+- [GradeBook](https://github.com/dindatiwi/learn_python/tree/gradebook)
