@@ -1,6 +1,6 @@
 > This is list of repos, that i've been made for training or practicing
 
-# Project
+# Practices
 
 
 ## List
