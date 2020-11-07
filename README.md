@@ -12,6 +12,7 @@
 - [Birthday Piano](https://github.com/dindatiwi/birthdayPiano)
 - [Chore Door Bot](https://github.com/dindatiwi/ChoreDoorBot)
 - [Javascript Calculator](https://github.com/dindatiwi/Kalkulator_javascript)
+- [Etch a Sketch](https://github.com/dindatiwi/etch-a-sketch)
 
 
 ## [Learning Javascript Fundamentals](https://github.com/dindatiwi/Learning)
@@ -25,6 +26,7 @@
 - [Rock Paper Scissor](https://github.com/dindatiwi/Learning/tree/paper-game)
 - [School Instances](https://github.com/dindatiwi/Learning/tree/school-instances)
 - [Team Stats](https://github.com/dindatiwi/Learning/tree/team-stats)
+
 
 ## [Learning Python 3 Fundamentals](https://github.com/dindatiwi/learn_python)
 ### Python 3 Fundamentals
