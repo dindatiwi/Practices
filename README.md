@@ -13,6 +13,8 @@
 - [Chore Door Bot](https://github.com/dindatiwi/ChoreDoorBot)
 - [Javascript Calculator](https://github.com/dindatiwi/Kalkulator_javascript)
 - [Etch a Sketch](https://github.com/dindatiwi/etch-a-sketch)
+- [https://github.com/dindatiwi/click-outside](https://github.com/dindatiwi/etch-a-sketch)
+
 
 
 ## [Learning Javascript Fundamentals](https://github.com/dindatiwi/Learning)
