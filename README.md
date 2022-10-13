@@ -36,3 +36,7 @@
 - [Pyshics Class](https://github.com/dindatiwi/learn_python/tree/pyshics_class)
 - [GradeBook](https://github.com/dindatiwi/learn_python/tree/gradebook)
 - [Carly's Clipper](https://github.com/dindatiwi/learn_python/tree/Carly's-clipper)
+
+## [Learning Java Fundamentals]()
+### Java Fundamentals
+- [Simple Console Calculator](https://github.com/dindatiwi/JavaCalc)
