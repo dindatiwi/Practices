@@ -40,3 +40,8 @@
 ## [Learning Java Fundamentals]()
 ### Java Fundamentals
 - [Simple Console Calculator](https://github.com/dindatiwi/JavaCalc)
+
+
+## [Learning Flutter]()
+### Flutter Fundamentals
+- [Recipe App](https://github.com/dindatiwi/recipe_app)
